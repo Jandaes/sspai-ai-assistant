@@ -11,11 +11,14 @@
 - ⚙️ 可配置的系统提示词
 - 🎨 优雅的界面设计
 
+## 源代码
+https://github.com/Jandaes/sspai-ai-assistant
+
 ## 安装方法
 
 1. 首先安装浏览器扩展 [Tampermonkey](https://www.tampermonkey.net/)
 2. 点击下面的安装链接安装脚本：
-   [安装脚本](https://github.com/jandaes/sspai-ai-assistant/raw/main/sspai-ai-assistant.user.js)
+   [安装脚本](https://greasyfork.org/zh-CN/scripts/521910-%E5%B0%91%E6%95%B0%E6%B4%BE-ai-%E5%8A%A9%E6%89%8B)
 
 ## 使用说明
 

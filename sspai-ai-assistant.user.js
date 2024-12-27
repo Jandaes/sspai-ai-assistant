@@ -1,15 +1,13 @@
 // ==UserScript==
 // @name         少数派 AI 助手
 // @name:en      SSPAI AI Assistant
-// @namespace    https://github.com/janda/sspai-ai-assistant
-// @version      0.1.0
+// @namespace    https://github.com/Jandaes/sspai-ai-assistant
+// @version      0.1.1
 // @description  为少数派文章添加 AI 辅助功能，支持一键总结文章内容和评论
 // @description:en  Add AI assistant features to SSPAI articles, support one-click summary of article content and comments
 // @author       janda
-// @homepage     https://github.com/jandaes/sspai-ai-assistant
-// @supportURL   https://github.com/jandaes/sspai-ai-assistant/issues
-// @updateURL    https://github.com/jandaes/sspai-ai-assistant/raw/main/sspai-ai-assistant.user.js
-// @downloadURL  https://github.com/jandaes/sspai-ai-assistant/raw/main/sspai-ai-assistant.user.js
+// @homepage     https://github.com/Jandaes/sspai-ai-assistant
+// @supportURL   https://github.com/Jandaes/sspai-ai-assistant/issues
 // @match        https://sspai.com/post/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
@@ -400,6 +398,6 @@
         });
     }
 
-    // 页面加载完成后初���化
+    // 页面加载完成后初始化
     window.addEventListener('load', init);
 })(); 
